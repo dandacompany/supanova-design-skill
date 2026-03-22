@@ -40,7 +40,7 @@ AI의 출력 생략을 방지합니다. 플레이스홀더, 스켈레톤, 미완
 
 ```bash
 # 프로젝트 레벨 설치
-claude mcp add-plugin supanova-design-skill -- https://github.com/uxjoseph/supanova-design-skill.git
+claude mcp add-plugin supanova-design-skill -- https://github.com/dandacompany/supanova-design-skill.git
 
 # 또는 로컬 디렉토리로 테스트
 claude --plugin-dir /path/to/supanova-design-skill

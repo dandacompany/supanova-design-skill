@@ -1,14 +1,15 @@
 {
-  "name": "uxjoseph-supanova-design-skill",
+  "name": "dandacompany-supanova-design-skill",
   "description": "AI 랜딩페이지 디자인 스킬 모음. $150k 에이전시 수준의 프리미엄 랜딩페이지를 생성합니다. 디자인 생성, 리디자인, 프리미엄 미학, 완전 출력 강제를 포함합니다.",
   "version": "1.0.0",
   "owner": {
-    "name": "uxjoseph",
+    "name": "Dante Labs",
+    "email": "dante@dante-labs.com",
     "url": "https://supanova.dev"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uxjoseph/supanova-design-skill"
+    "url": "https://github.com/dandacompany/supanova-design-skill"
   },
   "plugins": [
     {

@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "AI landing page design skills that generate $150k agency-quality pages. Covers design generation, redesign, premium aesthetics, and full-output enforcement.",
   "author": {
-    "name": "uxjoseph",
+    "name": "Dante Labs",
+    "email": "dante@dante-labs.com",
     "url": "https://supanova.dev"
   },
-  "repository": "https://github.com/uxjoseph/supanova-design-skill",
+  "repository": "https://github.com/dandacompany/supanova-design-skill",
   "license": "MIT",
   "keywords": [
     "design",
